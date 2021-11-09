@@ -1,0 +1,23 @@
+{
+  "name": "aut-trello-cypress",
+  "version": "1.0.0",
+  "description": "Trello testing using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertocgongora/aut-trello-cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertocgongora/aut-trello-cypress/issues"
+  },
+  "homepage": "https://github.com/robertocgongora/aut-trello-cypress#readme",
+  "dependencies": {
+    "cypress": "^8.7.0"
+  }
+}
